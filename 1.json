@@ -1,6 +1,6 @@
 {
   "name": "#1 Pikachu NFT From 385 Crypto Pok Collection",
-  "description": "#1Pikachu From 385 Collection Crypto Pok NFT's",
+  "description": "#1Pikachu From 385 Collection Crypto Pok NFT's first Nft from Crypto Puk Collection Rare",
   "image": "ipfs://QmetESUb7wTPr8mBHWFsiSKMw6HTLWUGoL8DrkcaY9TTyh/1.png"
   "edition": 1,
   "attributes": [
@@ -9,12 +9,13 @@
       "value": "Green"
     },
     {
-      "trait_type": "Head",
+      "trait_type": "shape
+      ",
       "value": "Green"
     },
     {
       "trait_type": "Neck",
-      "value": "Rose"
+      "value": "white"
     }
   ]
 }
