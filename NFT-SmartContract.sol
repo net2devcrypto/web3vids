@@ -1,5 +1,20 @@
-/**
- *Submitted for verification at Etherscan.io on 2021-12-08
+/*
+
+Follow/Subscribe Youtube, Github, IM, Tiktok
+for more amazing content!!
+@Net2Dev
+███╗░░██╗███████╗████████╗██████╗░██████╗░███████╗██╗░░░██╗
+████╗░██║██╔════╝╚══██╔══╝╚════██╗██╔══██╗██╔════╝██║░░░██║
+██╔██╗██║█████╗░░░░░██║░░░░░███╔═╝██║░░██║█████╗░░╚██╗░██╔╝
+██║╚████║██╔══╝░░░░░██║░░░██╔══╝░░██║░░██║██╔══╝░░░╚████╔╝░
+██║░╚███║███████╗░░░██║░░░███████╗██████╔╝███████╗░░╚██╔╝░░
+╚═╝░░╚══╝╚══════╝░░░╚═╝░░░╚══════╝╚═════╝░╚══════╝░░░╚═╝░░░
+THIS CONTRACT IS AVAILABLE FOR EDUCATIONAL 
+PURPOSES ONLY. YOU ARE SOLELY REPONSIBLE 
+FOR ITS USE. I AM NOT RESPONSIBLE FOR ANY
+OTHER USE. THIS IS TRAINING/EDUCATIONAL
+MATERIAL. ONLY USE IT IF YOU AGREE TO THE
+TERMS SPECIFIED ABOVE.
 */
 
 /**
